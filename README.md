@@ -28,10 +28,10 @@ npm install
 yarn install
 ```
 
-3. **Run the development server:**
+**Run the development server:**
 
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
+```bash
+npm run dev
+# or
+yarn dev
+```
